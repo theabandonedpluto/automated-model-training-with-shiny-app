@@ -35,3 +35,13 @@ app
 3. DfFunction.cpp <- c++ functions to show basic information of dataframe
 4. medical_train_test.RData <- the same with medical.csv
 5. package_demo.R <- R script to test autoforest package and c++ functions with medical Rdata
+
+## Getting Started
+To use the Shiny application, follow these steps:
+
+1. Clone or download the project repository to your local machine.
+2. Installation and the required dependencies and packages could be run inside the R script.
+3. Launch the Shiny application by running the main script or executing the appropriate command.
+4. Access the Shiny application through the provided URL or local host.
+5. Upload your dataset in CSV format and navigate through the menus to clean, visualize, and model your data. Or, you may use medical.csv as your testing.
+6. Analyze the generated metrics and plots to gain insights into your model performance.
