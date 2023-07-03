@@ -19,4 +19,4 @@ Variable Plots: Provides visual representations of each variable, allowing users
 After completing data cleaning and visualization, users can proceed to the model menu, which includes the following functionalities:
 Data Preparation: Users can select the target variable, independent variables, and the proportion for splitting the dataset into training and test sets.
 Model Selection: Users can specify the parameters required for the random forest model and choose whether to perform regression or classification.
-Metrics: Users can view the model metrics, such as accuracy and confusion matrix for classification models, and metrics like MAPE (Mean Absolute Percentage Error) and MAE (Mean Absolute Error) for regression models. Plots related to the chosen model are also displayed.
+Metrics: Users can view the model metrics, such as accuracy and confusion matrix for classification models, and metrics such as: MAPE (Mean Absolute Percentage Error) and MAE (Mean Absolute Error) for regression models. Plots related to the chosen model are also displayed.
