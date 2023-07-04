@@ -45,3 +45,24 @@ To use the Shiny application, follow these steps:
 4. Access the Shiny application through the provided URL or local host.
 5. Upload your dataset in CSV format and navigate through the menus to clean, visualize, and model your data. Or, you may use medical.csv as your testing.
 6. Analyze the generated metrics and plots to gain insights into your model performance.
+
+## Limitations and Future Improvements
+While our Shiny application provides automated model metrics for decision tree models, we recognize that it has certain limitations and areas for improvement. Some of the potential areas to address in future iterations include:
+
+1. Data Conversion Options
+Currently, the Shiny application offers limited options for data conversion, allowing users to convert values to factors, integers, and numerical types. In future updates, we plan to expand the range of options, such as allowing users to convert values to ordered factors or other specific data types that may be relevant to their datasets.
+
+2. Model Selection
+Although the Shiny application focuses on random forest models for decision trees, we acknowledge that there is room for expanding the model selection options. In future enhancements, we aim to incorporate additional decision tree models or even extend the functionality to include other machine learning algorithms, providing users with a wider range of model choices.
+
+3. Enhanced Visualization
+While our application currently provides frequency plots and variable plots for data visualization, we understand that there is potential for more advanced and diverse visualization options. In future iterations, we plan to incorporate additional visualization techniques and interactive plots that can assist users in gaining deeper insights into their data.
+
+4. Performance Optimization
+As with any software project, there is always room for performance optimization. In future updates, we intend to enhance the efficiency and speed of data processing, especially for larger datasets. This would ensure a smoother user experience and enable the application to handle more complex modeling tasks.
+
+## Conclusion
+We acknowledge that our Shiny application has certain limitations and areas for improvement. However, we are committed to continuously enhancing its functionality and addressing the identified weaknesses. We appreciate user feedback and suggestions for further development, as they are crucial for shaping the future iterations of this project.
+
+## Contributing
+We welcome contributions from the open-source community to help improve this project. If you have any suggestions, bug fixes, or additional features that you would like to contribute, please feel free to submit a pull request. Together, we can make this Shiny application even more robust and user-friendly.
